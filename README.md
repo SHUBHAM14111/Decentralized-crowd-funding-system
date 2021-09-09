@@ -1,1 +1,1 @@
-# Decentralized-crowsourcing-system
+# Decentralized-crowd-funding-system
